@@ -24,9 +24,9 @@ Add settings to your config/config.php
 <?php
 return [
   'rowdyrabouw.plausible' => [
-	'domain' => 'example.com', // used in snippet
+    'domain' => 'example.com', // used in snippet
     'theme' => 'light', // light or dark; used in panel
-	'sharedLink' => 'https://plausible.io/share/example.com?auth=vugsdGWpgFRI4S9nCWmRY' // used in panel
+    'sharedLink' => 'https://plausible.io/share/example.com?auth=vugsdGWpgFRI4S9nCWmRY' // used in panel
   ]
 ];
 ```
