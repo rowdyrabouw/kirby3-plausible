@@ -1,0 +1,12 @@
+{
+  "name": "rowdyrabouw/kirby3-plausible",
+  "description": "Frontend snippet and Kirby panel for plausible analytics",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rowdy Rabouw",
+      "email": "rowdy@double-r.nl"
+    }
+  ]
+}
