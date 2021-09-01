@@ -1,5 +1,5 @@
 # Kirby 3 Plausible
-Frontend snippet and Kirby panel for [plausible](https://plausible.io) analytics.
+Frontend snippet and Kirby panel for [Plausible](https://plausible.io) analytics.
 
 Plausible is a lightweight and open-source website analytics tool. No cookies and fully compliant with GDPR, CCPA and PECR. Made and hosted in the EU.
 
@@ -24,9 +24,9 @@ Add settings to your config/config.php
 <?php
 return [
   'rowdyrabouw.plausible' => [
-	  'domain' => 'example.com', // used in snippet
+	'domain' => 'example.com', // used in snippet
     'theme' => 'light', // light or dark; used in panel
-	  'sharedLink' => 'https://plausible.io/share/example.com?auth=vugsdGWpgFRI4S9nCWmRY' // used in panel
+	'sharedLink' => 'https://plausible.io/share/example.com?auth=vugsdGWpgFRI4S9nCWmRY' // used in panel
   ]
 ];
 ```
